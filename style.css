@@ -165,3 +165,30 @@ img{
     height: 250px;
     object-fit: cover;
 }
+
+.card h3{
+    padding: 20px 20px 10px;
+    font-size: 22px;
+    color: rgb(0, 0, 0);
+}
+
+.card p{
+    padding: 0 20px;
+    color:rgb(0, 0, 0);
+    margin-bottom: 20px;
+}
+
+.card a {
+    display: block;
+    text-align: center;
+    background-color: rgb(170, 0, 0);
+    color: aliceblue;
+    text-decoration: none;
+    padding: 15px;
+    font-weight: bold;
+}
+
+.card a:hover {
+    background-color: brown;
+}
+
